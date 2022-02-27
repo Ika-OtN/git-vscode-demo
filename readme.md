@@ -7,3 +7,5 @@
 # Hello from github.com^^
 
 # Einen wunderschönen guten Morgen°°
+
+# Ein weiterer Versuch, mich zu üben!
